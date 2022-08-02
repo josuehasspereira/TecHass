@@ -1,0 +1,328 @@
+body {
+    background-color: #232323;
+}
+
+
+
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #232323;
+  border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #515151; 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2E2E2E; 
+}
+/* -------- */
+
+
+
+
+/* ---NavBar--- */
+
+#color-nav {
+  background-color: #232323;
+}
+
+#color-txt a{
+  color: aliceblue;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  text-transform:uppercase;
+  text-decoration:none;
+  margin:0 15px;
+  font-size:16px;
+  letter-spacing:1px;
+  position:relative;
+  display:inline-block;
+}    
+
+a.nav-link:after {    
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #fff;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+
+a.nav-link:hover:after { 
+  width: 100%; 
+  left: 0; 
+}
+
+.nav-link.line:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  position: absolute;
+  background: #fff;
+  width: 100%;
+  left: 0%;
+}
+
+.nav-link.line:hover:after {
+  width: 0%;
+  left: 50%;
+}
+
+@media screen and (max-height: 300px) {
+	ul {
+	margin-top: 40px;
+	}
+}
+/* -------- */
+
+
+
+
+
+/* FadeIn */
+.fadeIn {
+  animation: fadeIn 1s linear;
+}
+
+@keyframes fadeIn {
+  0%   {opacity:10%}
+  
+}
+/* -------- */
+
+
+
+
+
+/* Imagem do carrossel */
+#carousel-img {
+    height: 600px;
+    z-index: -1;
+}
+/* -------- */
+
+
+
+
+
+/* Card do carrossel */
+.box-txt{
+  background-color: #CCCCCC; 
+  opacity: 85%;
+  width: 25%;
+  height: auto;
+  position: absolute;
+  left: 300px;
+  top: 450px;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+}
+
+.box-txt p{
+  font-size: large;
+}
+/* -------- */
+
+
+
+
+/* Botão (geral) */
+.button {
+  border: none;
+  color: white;
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: transparent; 
+  color: #232323; 
+  border: 2px solid #232323;
+  border-radius: 10px;
+}
+
+.button1:hover {
+  background-color: #232323;
+  color: white;
+  box-shadow: 0 0 50px #000000;
+}
+
+.button2 {
+  background-color: transparent; 
+  color: #CCCCCC; 
+  border: 2px solid #CCCCCC;
+  border-radius: 10px;
+}
+
+.button2:hover {
+  background-color: #CCCCCC;
+  color: #232323;
+  box-shadow: 0 0 50px #000000;
+}
+/* -------- */
+
+
+
+
+
+/* Coluna dos Imóveis à venda */
+.txt-imov {
+  margin-top: 15%;
+  margin-bottom: 7%;
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+}
+
+.imov-ven {
+  margin-top: 5%;
+  color: aliceblue;
+}
+
+#anim-img img{
+  width: 100%;
+}
+
+#anim-img img:hover {
+  opacity: 82.3%;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.901);
+  transition: 0.3s;
+}
+
+.card-ven {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+}
+
+.card-ven h3 {
+  padding-top: 1rem;
+}
+/* -------- */
+
+
+
+
+
+
+
+
+
+/* Coluna dos imóveis para aluguel */
+.card-alu {
+  background-color: #2E2E2E;
+  display: flex;
+  justify-content: center;
+  color: #bebed2;
+
+}
+
+#img-alu {
+  position: absolute;
+  top: -15%;
+  height: 100%;
+}
+
+.txt-imov-alu {
+  padding: 2.5%;
+}
+
+.card-alu {
+  background-color: #2E2E2E;
+  display: flex;
+  flex-direction: column;
+  color: #bebed2;
+}
+
+.col-card-alu1 {
+  display: flex;
+  justify-content: center;
+}
+
+.col-card-alu2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  background-color: #232323;
+}
+/* -------- */
+
+
+
+
+
+/* Avaliações */
+#container-aval img{
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  max-height: 60%;
+  filter: blur(10px);
+}
+
+.txt-aval {
+  text-align: center;
+}
+
+.cards-aval {
+  display: flex;
+  justify-content: space-around;
+  padding: 5%;
+}
+
+.card{
+  background-color: #232323;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+.img-pt {
+  position: absolute;
+  width: 2rem;
+}
+
+.img-col {
+  width: 2rem;
+}
+
+.img-pt:hover {
+  opacity: 1%;
+
+}
+
+
+/* Formulario */
+
+
+
+/* Cores:
+Cinza mais claro: #2F2E2E
+Cinza mais escuro: #232323
+on: active; */

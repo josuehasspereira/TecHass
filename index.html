@@ -1,0 +1,346 @@
+<!-- CRIADO POR JOSUÉ HASS -->
+<!-- jozzuhass@gmail.com -->
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Início | CR Prime</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+
+<!-- Navbar -->
+
+  <nav class="navbar navbar-expand-sm" id="color-nav">
+    <div class="container-fluid d-flex justify-content-around">
+      <a class="navbar-brand" href="#">
+        <img src="images/logo.png" alt="Logo" style="width:180px;" class="rounded-pill">
+      </a>
+      <ul class="navbar-nav" id="color-txt">
+        <li class="nav-item">
+          <a class="nav-link line" href="index.html">Início</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="imoveis.html">+ Imóveis</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contatos.html">Contatos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="sobre.html">Sobre</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+<!-- -----  -->
+
+
+
+
+<!-- Carrosel -->
+
+  <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
+   
+    <div class="carousel-inner" id="carousel-img">
+      <div class="carousel-item fadeIn active fadeImg">
+        <img class="d-block w-100" src="images/carrossel1.jpg" alt="Primeiro Slide">
+      </div>
+      <div class="carousel-item fadeIn fadeImg">
+        <img class="d-block w-100" src="images/carrossel3.jpg" alt="Segundo Slide">
+      </div>
+      <div class="carousel-item fadeIn">
+        <img class="d-block w-100" src="images/carrossel2.jpg" alt="Terceiro Slide">
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Anterior</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Próximo</span>
+    </a>
+  </div>
+<!-- -----  -->
+
+
+
+
+<!-- Card (carrossel) -->
+
+  <div class="box-txt">
+      <h1>Aqui vai um título de imóvel</h1>
+      <hr>
+      <p>Aqui vai uma breve descrição do imóvel. Aqui vai uma breve descrição do imóvel. Aqui vai uma breve descrição do imóvel. Aqui vai uma breve descrição do imóvel</p>
+      
+      <h2 class="d-block text-center">R$ 10.700.000</h2>
+      <button class="button button1">Ver mais</button>
+  </div>
+<!-- -----  -->
+
+
+
+
+<!-- Colunas (venda) -->
+
+  <div class="txt-imov">
+      <h1>Imóveis recentes à venda</h1>
+  </div>
+
+  <div class="imov-ven">
+    <div class="container">
+      <div class="row" id="anim-img">
+
+        <div class="col-sm-4">
+          <div class="card-ven">
+            <img src="images/imov-1.png" class="d-block" alt="">
+            <h3>Imóvel 1</h3>
+            <p>R$ 2.600.000,00</p>
+            <p><br>3 Dormitórios <br><br>Clique aqui para editar e adicionar o seu texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim para adicionar o seu conteúdo e trocar fontes. Sou um ótimo lugar para contar sua história aos clientes.</p>
+            <hr>
+            <button class="button button2">Ver mais</button>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="card-ven">
+            <img src="images/imov-2.png" class="d-block" alt="">
+            <h3>Imóvel 2</h3>
+            <p>R$ 2.600.000,00</p>
+            <p><br>2 Dormitórios <br><br>Clique aqui para editar e adicionar o seu texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim para adicionar o seu conteúdo e trocar fontes. Sou um ótimo lugar para contar sua história aos clientes.</p>
+            <hr>
+            <button class="button button2">Ver mais</button>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="card-ven">
+            <img src="images/imov-3.png" class="d-block" alt="">
+            <h3>Imóvel 3</h3>        
+            <p>R$ 2.600.000,00</p>
+            <p><br>1 Dormitório <br><br>Clique aqui para editar e adicionar o seu texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim para adicionar o seu conteúdo e trocar fontes. Sou um ótimo lugar para contar sua história aos clientes.</p>
+            <hr>
+            <butto class="button button2">Ver mais</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- -----  -->
+
+
+
+
+<!-- Colunas (aluguel) -->
+
+<div class="txt-imov">
+    <h1>Imóveis recentes para Aluguel</h1>
+</div>
+
+  <div class="card-alu ">
+
+    <div class="col-card-alu1">
+      <div class="col-sm-3 ">
+        <div class="card-alu-img">
+          <img src="images/imov-1.png" class="d-block" id="img-alu">
+        </div>
+      </div>
+    
+      <div class="txt-imov-alu col-sm-3 ">
+        <h3>Imóvel 2</h3>
+        <p>R$ 2.600.000,00</p>
+        <p><br>2 Dormitórios <br><br>Clique aqui para editar e adicionar o seu texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim para adicionar o seu conteúdo e trocar fontes. Sou um ótimo lugar para contar sua história aos clientes.</p>
+      </div>
+    </div>
+
+    <div class="col-card-alu2">  
+      <div class="txt-imov-alu col-sm-3">
+        <h3>Imóvel 2</h3>
+        <p>R$ 2.600.000,00</p>
+        <p><br>2 Dormitórios <br><br>Clique aqui para editar e adicionar o seu texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim para adicionar o seu conteúdo e trocar fontes. Sou um ótimo lugar para contar sua história aos clientes.</p>
+      </div>
+
+      <div class="col-sm-3">
+        <div class="card-alu-img">
+          <img src="images/imov-1.png" class="d-block" id="img-alu">
+        </div>
+      </div>
+    
+    </div>
+  </div>
+<!-- -----  -->
+
+
+
+
+<!-- Avaliações -->
+
+<div id="container-aval">
+    <img src="images/avaliacoes.jpg" alt="">
+    <div class="txt-aval pt-5">
+      <h1 >O que os nossos clientes pensam</h1>
+    </div>
+
+
+    <div class="cards-aval">
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <p class="card-text text-center text-light">"Ótimo atendimento, pessoas compreensíveis e educadas, parabéns pelo profissionalismo "</p>
+          <p class="card-title text-center font-weight-bold text-light">- Isabel Flora Santos<p>
+        </div>
+      </div>
+    
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <p class="card-text text-center text-light">"Site horroroso, tem que melhorar muito pra ser chamado de lixo puro"</p>
+          <p class="card-title text-center font-weight-bold text-light">- Josué Hass<p>
+        </div>
+      </div>
+    
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <p class="card-text text-center text-light">"Sou um depoimento. Clique aqui para editar e adicionar um texto sobre você e seus serviços"</p>
+          <p class="card-title text-center font-weight-bold text-light" >- Eduardo Jacinto<p>
+        </div>
+      </div>
+    </div>
+</div>
+<!-- -----  -->
+
+
+
+  <!-- Footer -->
+  
+  <footer class="text-center text-lg-start text-white" style="background-color: #232323">
+  
+    
+    <!-- Barra -->
+    <section class="d-flex justify-content-between p-4" style="background-color: rgba(0, 0, 0, 0.2)">
+    </section>
+    <!-- -----  -->
+
+    <!-- Links  -->
+    <section class="">
+      <div class="container text-center text-md-start mt-5">
+        <div class="row mt-3">
+          <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+            
+            
+            <!-- COMPANIA -->
+            <h6 class="text-uppercase fw-bold">Compania</h6>
+            <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: aliceblue; height: 2px"/>
+            <p>
+              Aqui vai um breve resumo sobre a Empresa CR PRIME. Aqui vai um breve resumo sobre a Empresa CR PRIME. 
+            </p>
+          </div>
+         
+
+          <!-- Links -->
+          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+            <h6 class="text-uppercase fw-bold">LINKS</h6>
+            <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: aliceblue; height: 2px"/>
+            <p>
+              <a href="index.html" class="text-white">Início</a>
+            </p>
+            <p>
+              <a href="imoveis.html" class="text-white">Imóveis</a>
+            </p>
+            <p>
+              <a href="contatos.html" class="text-white">Contatos</a>
+            </p>
+            <p>
+              <a href="sobre.html" class="text-white">Sobre</a>
+            </p>
+          </div>
+          <!-- -----  -->
+
+          
+          <!-- Coluna - Contato -->
+          <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+            <h6 class="text-uppercase fw-bold">Contato</h6>
+            <hr
+            class="mb-4 mt-0 d-inline-block mx-auto"
+            style="width: 60px; background-color: aliceblue; height: 2px"
+            />
+            <p><i class="fas fa-home mr-3"></i> R. Jair corrêa, 130 - <br>Joinville, SC</p>
+            <p><i class="fas fa-envelope mr-3"></i> crprime@suporte.com</p>
+            <p><i class="fas fa-phone mr-3"></i> +55 (47) 3801-1325</p>
+            <p><i class="fas fa-print mr-3"></i> +55 (47) 9 8922-4746</p>
+          </div>
+          <!-- Coluna -->
+
+
+          <!-- Coluna Midia Socuais -->
+          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+            <h6 class="text-uppercase fw-bold">MÍDIA SOCIAL</h6>
+            <hr  class="mb-4 mt-0 d-inline-block mx-auto"  style="width: 60px; background-color: aliceblue; height: 2px"/>
+            <p>
+              <a href="index.html">  
+                  <img src="images/face-pt.png" alt="Facebook" class="img-pt">
+                  <img src="images/face.png" alt="Facebook" class="img-col">
+              </a>
+            </p>
+            <p>
+              <a href="index.html">
+                <img src="images/insta-pt.png" alt="Facebook" class="img-pt">
+                <img src="images/insta.png" alt="Facebook" class="img-col">
+            </a>
+            </p>
+            <p>
+              <a href="index.html">
+                <img src="images/twitter-pt.png" alt="Facebook" class="img-pt">
+                <img src="images/twitter.png" alt="Facebook" class="img-col">
+              </a>
+            </p>
+            <p>
+              <a href="index.html">
+                <img src="images/whats-pt.png" alt="Facebook" class="img-pt">
+                <img src="images/whats.png" alt="Facebook" class="img-col">     
+              </a>
+            </p>
+
+
+          </div>
+          <!-- -----  -->
+
+        </div>      
+      </div>
+    </section>
+    
+    
+    <!-- Copyright -->
+    <div
+         class="text-center p-3"
+         style="background-color: rgba(0, 0, 0, 0.2)"
+         >
+      © 2022 Copyright:
+      <a class="text-white" href="index.html"
+         >CR Prime</a
+        >
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+
+  <!-- Footer -->
+  <i class="bi bi-123 bg-primary"></i>
+
+
+
+
+
+
+<!-- Scripts -->
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/script.js"></script>
+<!-- -----  -->
+
+</body>
+</html>
