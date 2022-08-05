@@ -246,7 +246,9 @@ a.nav-link:hover:after {
 }
 
 .txt-imov-alu {
-  padding: 2.5%;
+  padding: 2.5rem;
+
+  background-color: aquamarine;
 }
 
 .card-alu {
@@ -254,11 +256,13 @@ a.nav-link:hover:after {
   display: flex;
   flex-direction: column;
   color: #bebed2;
+
 }
 
 .col-card-alu1 {
   display: flex;
   justify-content: center;
+  background-color: red;
 }
 
 .col-card-alu2 {
