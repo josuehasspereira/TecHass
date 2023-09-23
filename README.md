@@ -7,7 +7,7 @@
 
 # Loja de Peças de Computador Gamer
 
-Bem-vindo à Loja de Peças de Computador Gamer, o seu destino para comprar as melhores peças de hardware para jogos!
+Bem-vindo à TecHass Store, o seu destino para comprar as melhores peças de hardware para jogos!
 
 ## Descrição do Projeto
 
@@ -24,7 +24,8 @@ O nosso projeto consiste em um site de e-commerce onde os usuários podem compra
 
 ## Instalação
 
-Para usar a nossa plataforma, não é necessário instalação local. Basta acessar o site em [www.lojadepecasgamer.com](https://www.lojadepecasgamer.com) no seu navegador.
+Para usar a nossa plataforma, não é necessário instalação local. Basta acessar o site que estará totalmente disponível na conclusão 
+Basta acessar o site em [www.lojadepecasgamer.com](https://www.lojadepecasgamer.com) no seu navegador.
 
 ## Uso
 
