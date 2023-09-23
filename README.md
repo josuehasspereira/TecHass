@@ -28,9 +28,9 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 # Documento de Casos de Uso - TecHass Store
 
-## ----Introdução----
+## Introdução
 
-Este documento descreve os principais casos de uso da TecHass Store, um projeto de e-commerce voltado para a venda de hardware de jogos.
+  Este documento descreve os principais casos de uso da TecHass Store, um projeto de e-commerce voltado para a venda de hardware de jogos.
 
 ### Ator Primário
 
