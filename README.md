@@ -7,11 +7,11 @@
 
 # Loja de Peças de Computador Gamer
 
-Bem-vindo à TecHass Store, o seu destino para comprar as melhores peças de hardware para jogos!
+Bem-vindo à TecHass Store, o seu destino para comprar as melhores peças usadas de hardware para jogos!
 
 ## Descrição do Projeto
 
-O nosso projeto consiste em um site de e-commerce onde os usuários podem comprar uma ampla variedade de produtos de hardware de alta qualidade voltados para gamers. Nossa plataforma permite que os usuários naveguem por uma seleção exclusiva de produtos, façam pedidos e adicionem itens ao carrinho de compras. Os produtos são cuidadosamente selecionados e postados exclusivamente pelo administrador da loja.
+O nosso projeto consiste em um site de e-commerce onde os usuários podem comprar uma ampla variedade de produtos de hardware de alta qualidade voltados para gamers, sendo elas usadas e semi-novas para permitir um preço mais acessível. Nossa plataforma permite que os usuários naveguem por uma seleção exclusiva de produtos, façam pedidos e adicionem itens ao carrinho de compras. Os produtos são cuidadosamente selecionados e postados exclusivamente pela loja.
 
 ## Tabela de Conteúdo
 
@@ -24,8 +24,7 @@ O nosso projeto consiste em um site de e-commerce onde os usuários podem compra
 
 ## Instalação
 
-Para usar a nossa plataforma, não é necessário instalação local. Basta acessar o site que estará totalmente disponível na conclusão 
-Basta acessar o site em [www.lojadepecasgamer.com](https://www.lojadepecasgamer.com) no seu navegador.
+Para usar a nossa plataforma, não é necessário instalação local. Basta acessar o site que estará totalmente disponível na conclusão desse projeto. Nosso protótipo pode ser visto em [www.techass.com.br] em seu navegador
 
 ## Uso
 
