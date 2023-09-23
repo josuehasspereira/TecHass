@@ -42,7 +42,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 ## Casos de Uso
 
-### ----Realizar Compra de um Produto---- 
+### Realizar Compra de um Produto
 
 **Descrição:** O usuário registrado deseja comprar produtos da loja.
 
@@ -64,7 +64,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 **Pós-condições:** Os produtos são comprados, o pedido é registrado, o estoque é atualizado e o produto enviado ao comprador.
 
-### ----Postar Produto (Administrador)----
+### Postar Produto (Administrador)
 
 **Descrição:** O administrador da loja deseja postar um novo produto na plataforma.
 
@@ -80,7 +80,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 **Pós-condições:** O novo produto é adicionado ao catálogo da loja e fica disponível para os usuários.
 
-### ----Visualizar Histórico de Pedidos----
+### Visualizar Histórico de Pedidos
 
 **Descrição:** O usuário registrado deseja visualizar seu histórico de pedidos anteriores.
 
@@ -98,7 +98,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 **Pós-condições:** O usuário visualiza seu histórico de pedidos.
 
 
-## ----Considerações Finais-----
+## Considerações Finais
 
 Este documento de casos de uso fornece uma visão geral das principais funcionalidades do sistema. À medida que o projeto progride, esse documento será atualizado com o passar da criaçao de casos de usos mais detalhados e a elaboração de diagramas de sequência para representar a interação entre os atores e o sistema de forma mais precisa.
 
