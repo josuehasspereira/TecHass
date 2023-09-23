@@ -7,7 +7,7 @@
 
 # Loja de Peças de Computador Gamer
 
-Bem-vindo à TecHass Store, o seu destino para comprar as melhores peças usadas de hardware para jogos!
+Bem-vindo à TecHass Store, o seu destino para comprar as melhores peças usadas de hardware para jogos! Ela existe desde Janeiro de 2023, porém agora pretende iniciar um projeto próprio oficial
 
 ## Descrição do Projeto
 
@@ -16,7 +16,7 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 ## Tabela de Conteúdo
 
 - [Instalação](#instalação)
-- [Uso](#Documento)
+- [Uso](#Uso)
 - [Funcionalidades](#funcionalidades)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
