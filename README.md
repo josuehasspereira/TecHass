@@ -111,17 +111,6 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 - Checkout seguro com opções de pagamento.
 - Catálogo atualizado regularmente com as últimas novidades em hardware para jogos.
 
-## Contribuição
-
-Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etapas:
-
-1. Faça um fork do repositório.
-2. Clone o repositório forkado para a sua máquina local.
-3. Crie uma branch para a sua contribuição: `git checkout -b minha-contribuição`
-4. Faça as alterações desejadas e commit.
-5. Envie as alterações para o seu fork: `git push origin minha-contribuição`
-6. Abra um pull request para que possamos revisar suas alterações.
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
