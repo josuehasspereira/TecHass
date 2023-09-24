@@ -116,6 +116,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em [contato@lojadepecasgamer.com](mailto:contato@lojadepecasgamer.com).
+Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em [contato@lojadepecasgamer.com](mailto:josue.hass@gmail.com).
 
 Agradecemos por escolher a Loja de Peças de Computador Gamer para suas necessidades de hardware para jogos!
