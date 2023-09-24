@@ -109,7 +109,6 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 - Cadastro de usuário para salvar informações pessoais e histórico de pedidos.
 - Adição de produtos ao carrinho de compras.
 - Checkout seguro com opções de pagamento.
-- Catálogo atualizado regularmente com as últimas novidades em hardware para jogos.
 
 ## Licença
 
