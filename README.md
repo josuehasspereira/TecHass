@@ -1,6 +1,3 @@
-//teste
-
-
 <h1 align="center"> TecHass Store </h1
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -18,7 +15,7 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 ## Tabela de Conteúdo
 
 - [Instalação](#instalação)
-- [Uso](#Uso)
+- [Uso](##introdução)
 - [Funcionalidades](#funcionalidades)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
