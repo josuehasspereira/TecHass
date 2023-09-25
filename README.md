@@ -98,6 +98,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 **Pós-condições:** O usuário visualiza seu histórico de pedidos.
 
 
+
 ## Considerações Finais
 
 Este documento de casos de uso fornece uma visão geral das principais funcionalidades do sistema. À medida que o projeto progride, esse documento será atualizado com o passar da criaçao de casos de usos mais detalhados e a elaboração de diagramas de sequência para representar a interação entre os atores e o sistema de forma mais precisa.
@@ -110,9 +111,6 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 - Adição de produtos ao carrinho de compras.
 - Checkout seguro com opções de pagamento.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## Contato
 
