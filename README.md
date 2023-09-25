@@ -98,6 +98,19 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 **Pós-condições:** O usuário visualiza seu histórico de pedidos.
 
 
+### Devolver um produto comprado
+
+**Descrição:** O usuário registrado deseja fazer uma devolução do produto (dentro do prazo de 7 dias segundo a política da empresa)
+
+**Pré-condições:** O usuário deve estar autenticado na plataforma.
+
+**Fluxo Básico:**
+
+1. O usuário acessa a página de contatos.
+2. O usuário abre um ticket preenchendo conforme o formulário.
+3. Um Email é enviado com a análise do ticket aberto em questão
+
+**Pós-condições:** O pedido é atendido e o usuário tem o dinheiro estornado (se estiver no prazo de devolução).
 
 ## Considerações Finais
 
