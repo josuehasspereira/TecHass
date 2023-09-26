@@ -137,9 +137,6 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 # Regras de Negócio (Em andamento...)
 
 
-# Funcionalidades (Em andamento...)
-
-
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em [jozzuhass@gmail.com](mailto:jozzuhass@gmail.com).
