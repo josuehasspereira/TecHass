@@ -16,14 +16,23 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 
 - [Instalação](#instalação)
 - [Uso](#documento-de-casos-de-uso---tecHass-store)
+- [Funcionalidades](#)
 - [Requisitos](#)
 - [Regras de Negócio](#)
-- [Funcionalidades](#funcionalidades-(em-andamento)...)
 - [Contato](#contato)
 
 ## Instalação
 
 Para usar a nossa plataforma, não é necessário instalação local. Basta acessar o site que estará totalmente disponível na conclusão desse projeto. Nosso protótipo pode ser visto em [www.techass.com.br] em seu navegador, seja desktop ou mobile!
+
+
+# Funcionalidades
+
+- Navegação intuitiva e amigável.
+- Cadastro de usuário para salvar informações pessoais e histórico de pedidos.
+- Adição de produtos ao carrinho de compras.
+- Checkout seguro com opções de pagamento.
+
 
 # Documento de Casos de Uso - TecHass Store
 
@@ -40,6 +49,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 - **Administrador da Loja:** O administrador da loja é responsável por postar produtos na plataforma, gerenciar pedidos e monitorar a atividade dos usuários conforme os termos e condições.
 
 ## Casos de Uso
+
 
 ### Realizar Compra de um Produto
 
@@ -63,6 +73,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 **Pós-condições:** Os produtos são comprados, o pedido é registrado, o estoque é atualizado e o produto enviado ao comprador.
 
+
 ### Postar Produto (Administrador)
 
 **Descrição:** O administrador da loja deseja postar um novo produto na plataforma.
@@ -78,6 +89,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 5. O administrador publica o produto.
 
 **Pós-condições:** O novo produto é adicionado ao catálogo da loja e fica disponível para os usuários.
+
 
 ### Visualizar Histórico de Pedidos
 
@@ -111,20 +123,25 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 **Pós-condições:** O pedido é atendido e o usuário tem o dinheiro estornado (se estiver no prazo de devolução).
 
+
 ## Considerações Finais
 
 Este documento de casos de uso fornece uma visão geral das principais funcionalidades do sistema. À medida que o projeto progride, esse documento será atualizado com o passar da criaçao de casos de usos mais detalhados e a elaboração de diagramas de sequência para representar a interação entre os atores e o sistema de forma mais precisa.
+
 
 # Requisitos (Em andamento...)
 ## - Funcionais
 ## - Não Funcionais
 
+
 # Regras de Negócio (Em andamento...)
+
 
 # Funcionalidades (Em andamento...)
 
+
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em [contato@lojadepecasgamer.com](mailto:josue.hass@gmail.com).
+Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em [jozzuhass@gmail.com](mailto:jozzuhass@gmail.com).
 
 Agradecemos por escolher a Loja de Peças de Computador Gamer para suas necessidades de hardware para jogos!
