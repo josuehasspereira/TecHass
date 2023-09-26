@@ -18,7 +18,7 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 - [Uso](#documento-de-casos-de-uso---tecHass-store)
 - [Requisitos](#)
 - [Regras de Negócio](#)
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#funcionalidades-(em-andamento)...)
 - [Contato](#contato)
 
 ## Instalação
@@ -121,13 +121,7 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 
 # Regras de Negócio (Em andamento...)
 
-# Funcionalidades
-
-- Navegação intuitiva e amigável.
-- Cadastro de usuário para salvar informações pessoais e histórico de pedidos.
-- Adição de produtos ao carrinho de compras.
-- Checkout seguro com opções de pagamento.
-
+# Funcionalidades (Em andamento...)
 
 ## Contato
 
