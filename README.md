@@ -37,7 +37,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 ### Ator Secundário
 
-- **Administrador da Loja:** O administrador da loja é responsável por postar produtos na plataforma, gerenciar pedidos e monitorar a atividade dos usuários.
+- **Administrador da Loja:** O administrador da loja é responsável por postar produtos na plataforma, gerenciar pedidos e monitorar a atividade dos usuários conforme os termos e condições.
 
 ## Casos de Uso
 
@@ -49,7 +49,7 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 
 **Fluxo Básico:**
 
-1. O usuário acessa o site e faz o login ou cadastro.
+1. O usuário acessa o site.
 2. O usuário navega pelos produtos da loja.
 3. O usuário seleciona um ou mais produtos.
 4. O usuário adiciona os produtos ao carrinho de compras.
