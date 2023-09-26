@@ -16,6 +16,8 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 
 - [Instalação](#instalação)
 - [Uso](#documento-de-casos-de-uso---tecHass-store)
+- [Requisitos](#)
+- [Regras de Negócio](#regras-de-negocio)
 - [Funcionalidades](#funcionalidades)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
@@ -114,6 +116,13 @@ Para usar a nossa plataforma, não é necessário instalação local. Basta aces
 ## Considerações Finais
 
 Este documento de casos de uso fornece uma visão geral das principais funcionalidades do sistema. À medida que o projeto progride, esse documento será atualizado com o passar da criaçao de casos de usos mais detalhados e a elaboração de diagramas de sequência para representar a interação entre os atores e o sistema de forma mais precisa.
+
+# Requisitos
+## Funcionais
+## Não Funcionais
+
+# Regras de Negócio
+
 
 
 # Funcionalidades
