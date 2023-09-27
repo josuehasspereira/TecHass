@@ -19,7 +19,7 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 - [Uso](#documento-de-casos-de-uso---tecHass-store)
 - [Requisitos](#)
 - [Regras de Negócio](#)
-- [Tecnologias](#linguagens)
+- [Tecnologias](#tecnologias)
 - [Contato](#contato)
 
 ## Instalação
@@ -137,7 +137,7 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 
 # Regras de Negócio (Em andamento...)
 
-# Linguagens
+# Tecnologias
 
 ## Abaixo segue as linguagens e tecnologias que serão utilizadas ou que estão entre as opções para o desenvolvimento desse projeto
 
