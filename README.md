@@ -157,7 +157,7 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 ### Hospedagem
 - Não Confirmado
 
-### Intgração de pagamento
+### Integração de pagamento
 - Não Confirmado
 
 # Contato
