@@ -136,8 +136,31 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 
 # Regras de Negócio (Em andamento...)
 
+# Linguagens
 
-## Contato
+## Abaixo segue as linguagens e tecnologias que serão utilizadas ou que estão entre as opções para o desenvolvimento desse projeto
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript
+- BootStrap (Não confirmado)
+- React (Framework)
+
+### Back-end
+- Node.js (Não confirmado)
+- Go Lang (Não confirmado)
+
+### Database
+- MYSQL (Não confirmado)
+
+### Hospedagem
+- Não Confirmado
+
+### Intgração de pagamento
+- Não Confirmado
+
+# Contato
 
 Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em [jozzuhass@gmail.com](mailto:jozzuhass@gmail.com).
 
