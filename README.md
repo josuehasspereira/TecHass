@@ -15,8 +15,8 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 ## Tabela de Conteúdo
 
 - [Instalação](#instalação)
-- [Uso](#documento-de-casos-de-uso---tecHass-store)
 - [Funcionalidades](#funcionalidades)
+- [Uso](#documento-de-casos-de-uso---tecHass-store)
 - [Requisitos](#)
 - [Regras de Negócio](#)
 - [Contato](#contato)
