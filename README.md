@@ -145,7 +145,7 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 
 ### Back-end
 - Node.js (Não confirmado)
-- Go Lang (Não confirmado)
+- Go Lang 
 
 ### Database
 - MYSQL (Não confirmado)
