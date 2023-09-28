@@ -14,17 +14,12 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem comprar u
 
 ## Tabela de Conteúdo
 
-- [Instalação](#instalação)
 - [Funcionalidades](#funcionalidades)
 - [Uso](#documento-de-casos-de-uso---tecHass-store)
 - [Requisitos](#)
 - [Regras de Negócio](#)
 - [Tecnologias](#tecnologias)
 - [Contato](#contato)
-
-## Instalação
-
-Para usar a nossa plataforma, não é necessário instalação local. Basta acessar o site que estará totalmente disponível na conclusão desse projeto. Nosso protótipo pode ser visto em [www.techass.com.br] em seu navegador, seja desktop ou mobile!
 
 
 # Funcionalidades
