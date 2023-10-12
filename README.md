@@ -140,12 +140,12 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 - HTML5
 - CSS3
 - JavaScript
-- BootStrap (Não confirmado)
-- React (Framework)
+- BootStrap 
+- React 
 
 ### Back-end
-- Node.js (Não confirmado)
-- Go Lang 
+- Django
+- Go Lang
 
 ### Database
 - MYSQL (Não confirmado)
