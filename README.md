@@ -127,6 +127,19 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 
 # Requisitos (Em andamento...)
 ## - Funcionais
+
+| Identificação | Nome | Descrição | Dados | Atores |
+| --- | --- | --- | --- | --- |
+| R.F.01 | Realização de Login | Realiza a autenticação do usuário cadastrado no sistema | Email, Senha | Usuário, Administrador |
+| R.F.02 | Realização de Cadastro | Realiza o cadastro do usuário no sistema | Nome, Sobrenome, Email, Senha | Usuário, Administrador |
+| R.F.03 | Navegação e Visualizaçao dos Produtos | Permite que o Usuário visualize todos os produtos cadastrados na loja e suas informações | Título, Descrição, Valor, Quantidade, Categoria, Especificações | Usuário, Administrador |
+| R.F.04 | Adicionar no Carrinho | Permite que o usuário adicione um produto ao seu carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
+| R.F.05 | Remover do Carrinho | Permite que o usuário remova um produto do carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
+| R.F.06 | Editar Perfil | Permite que o usuário edite seu perfil e suas informações pessoais | Nome, Sobrenome, Email, CPF, Endereço, Data de Nascimento | Usuário, Administrador |
+| R.F.07 | Comprar um produto | Permite que o usuário faça a compra de um produto | Nome, Sobrenome, CPF, Endereço, Quantidade, Valor Total, Método de Pagamento | Usuário , Administrador |
+
+Obs: o R.F.07 pode ser submetido a mudanças, ja que não há ainda uma API de pagamento e/ou integração de envio com o correios especificado para usar no projeto.
+
 ## - Não Funcionais
 
 
