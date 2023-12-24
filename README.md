@@ -132,12 +132,15 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 | --- | --- | --- | --- | --- |
 | R.F.01 | Realização de Login | Realiza a autenticação do usuário cadastrado no sistema | Email, Senha | Usuário, Administrador |
 | R.F.02 | Realização de Cadastro | Realiza o cadastro do usuário no sistema | Nome, Sobrenome, Email, Senha | Usuário, Administrador |
-| R.F.03 | Navegação e Visualizaçao dos Produtos | Permite que o Usuário visualize todos os produtos cadastrados na loja e suas informações | Título, Descrição, Valor, Quantidade, Categoria, Especificações | Usuário, Administrador |
+| R.F.03 | Navegação e Visualizaçao dos Produtos | Permite que o Usuário visualize todos os produtos cadastrados na loja e suas informações | Título, Descrição, Valor, Quantidade, Valor Total, Categoria, Especificações | Usuário, Administrador |
 | R.F.04 | Adicionar no Carrinho | Permite que o usuário adicione um produto ao seu carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
 | R.F.05 | Remover do Carrinho | Permite que o usuário remova um produto do carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
 | R.F.06 | Editar Perfil | Permite que o usuário edite seu perfil e suas informações pessoais | Nome, Sobrenome, Email, CPF, Endereço, Data de Nascimento | Usuário, Administrador |
 | R.F.07 | Comprar um produto | Permite que o usuário faça a compra de um produto | Nome, Sobrenome, CPF, Endereço, Quantidade, Valor Total, Método de Pagamento | Usuário , Administrador |
-| R.F.08 | 
+| R.F.08 | Cadastrar produto | Permite que o administrador cadastre um novo produto no sistema | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
+| R.F.09 | Alterar produto | Permite que o administrador altere informações do produto | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
+| R.F.10 | Excluir produto | Permite que o Administrador exclua um produto do sistema permanentemente | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
+| R.F.11 | Excluir perfil | Permite que o usuário exclua seu perfil, consequentemente sua conta sera excluída | Usuário, Senha | Usuário, Administrador |
 
 Obs: o R.F.07 pode ser submetido a mudanças, ja que não há ainda uma API de pagamento e/ou integração de envio com o correios especificado para usar no projeto. Vale lembrar que talvez não haja pagamento direto por dentro do site, ou seja, no ato da compra, será redirecionado para o whatsapp comercial da TecHass Store onde o pagamento poderá ser feito mediante ao Vendedor, atráves de cartão de débito (à vista), crédito (até 12x) e dinheiro (vivo ou pix).
 
