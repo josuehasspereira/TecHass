@@ -137,8 +137,9 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 | R.F.05 | Remover do Carrinho | Permite que o usuário remova um produto do carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
 | R.F.06 | Editar Perfil | Permite que o usuário edite seu perfil e suas informações pessoais | Nome, Sobrenome, Email, CPF, Endereço, Data de Nascimento | Usuário, Administrador |
 | R.F.07 | Comprar um produto | Permite que o usuário faça a compra de um produto | Nome, Sobrenome, CPF, Endereço, Quantidade, Valor Total, Método de Pagamento | Usuário , Administrador |
+| R.F.08 | 
 
-Obs: o R.F.07 pode ser submetido a mudanças, ja que não há ainda uma API de pagamento e/ou integração de envio com o correios especificado para usar no projeto.
+Obs: o R.F.07 pode ser submetido a mudanças, ja que não há ainda uma API de pagamento e/ou integração de envio com o correios especificado para usar no projeto. Vale lembrar que talvez não haja pagamento direto por dentro do site, ou seja, no ato da compra, será redirecionado para o whatsapp comercial da TecHass Store onde o pagamento poderá ser feito mediante ao Vendedor, atráves de cartão de débito (à vista), crédito (até 12x) e dinheiro (vivo ou pix).
 
 ## - Não Funcionais
 
