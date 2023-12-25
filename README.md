@@ -141,6 +141,9 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 | R.F.09 | Alterar produto | Permite que o administrador altere informações do produto | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
 | R.F.10 | Excluir produto | Permite que o Administrador exclua um produto do sistema permanentemente | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
 | R.F.11 | Excluir perfil | Permite que o usuário exclua seu perfil, consequentemente sua conta sera excluída | Usuário, Senha | Usuário, Administrador |
+| R.F.12 | Recuperar Senha | Permite que o usuário possa recuperar sua senha caso tenha esquecido | Email | Usuário, Administrador |
+| R.F.13 | Filtrar produtos | Permite ao usuário que filtre os produtos segundo a sua preferência | Preço, Categoria, Título | Uusário, Administrador |
+| R.F.14 | Avaliar produtos | Permite ao usuário que avalie o produto e comente após realizar a compra do mesmo | Nota, Comentário | Uusário, Administrador |
 
 Obs: o R.F.07 pode ser submetido a mudanças, ja que não há ainda uma API de pagamento e/ou integração de envio com o correios especificado para usar no projeto. Vale lembrar que talvez não haja pagamento direto por dentro do site, ou seja, no ato da compra, será redirecionado para o whatsapp comercial da TecHass Store onde o pagamento poderá ser feito mediante ao Vendedor, atráves de cartão de débito (à vista), crédito (até 12x) e dinheiro (vivo ou pix).
 
