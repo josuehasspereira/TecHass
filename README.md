@@ -148,6 +148,11 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 Obs: o R.F.07 pode ser submetido a mudanças, ja que não há ainda uma API de pagamento e/ou integração de envio com o correios especificado para usar no projeto. Vale lembrar que talvez não haja pagamento direto por dentro do site, ou seja, no ato da compra, será redirecionado para o whatsapp comercial da TecHass Store onde o pagamento poderá ser feito mediante ao Vendedor, atráves de cartão de débito (à vista), crédito (até 12x) e dinheiro (vivo ou pix).
 
 ## - Não Funcionais
+| Identificação | Nome | Descrição | 
+| --- | --- | --- |
+| R.N.F.01 | Compatibilidade | O sistema deve funcionar nos navegadores modernos (Google Chrome, Opera, Microsoft Edge e Mozilla Firefox | 
+| R.N.F.02 | Disponibilidade | O sistema deve ficar disponível intermitentemente (24 horas/dia) |
+| R.N.F.03 | Segurança de Dados | O sistema deve garatir a criptografia de dados, como senhas, tal como essas informações não podem ser vistas pela administração |
 
 
 # Regras de Negócio (Em andamento...)
