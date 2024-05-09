@@ -16,8 +16,8 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem visualiza
 
 - [Funcionalidades](#funcionalidades)
 - [Uso](#documento-de-casos-de-uso---tecHass-store)
-- [Requisitos](#funcionais)
-- [Regras de Negócio](#)
+- [Requisitos](#requisitos)
+- [Regras de Negócio](#regras-de-negocio)
 - [Tecnologias](#tecnologias)
 - [Contato](#contato)
 
@@ -124,7 +124,7 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem visualiza
 Este documento de casos de uso fornece uma visão geral das principais funcionalidades do sistema. À medida que o projeto progride, esse documento será atualizado com o passar da criaçao de casos de usos mais detalhados e a elaboração de diagramas de sequência para representar a interação entre os atores e o sistema de forma mais precisa.
 
 
-# Requisitos (Em andamento...)
+# Requisitos
 ## - Funcionais
 
 | Identificação | Nome | Descrição | Dados | Atores |
@@ -153,7 +153,8 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 | R.N.F.03 | Segurança de Dados | O sistema deve garatir a criptografia de dados, como senhas, tal informações não podem ser vistas pela administração |
 
 
-# Regras de Negócio (Em andamento...)
+# Regras de Negócio 
+(Em andamento...)
 
 # Tecnologias
 
