@@ -161,15 +161,13 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 ## Abaixo segue as linguagens e tecnologias que serão utilizadas ou que estão entre as opções para o desenvolvimento desse projeto
 
 ### Front-end
-- HTML5
-- CSS3
-- JavaScript
-- BootStrap 
-- React 
+- Framework Front-end: React
+- Linguagens de Marcação e Estilização: HTML5, CSS3
+- Biblioteca de Estilização: Bootstrap
 
 ### Back-end
-- Django
-- Go Lang
+- Framework Back-end: Django
+- Linguagem de Programação: Python
 
 ### Database
 - MYSQL (Não confirmado)
