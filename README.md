@@ -27,7 +27,7 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem visualiza
 - Navegação intuitiva e amigável.
 - Cadastro de usuário para salvar informações pessoais e histórico de pedidos.
 - Adição de produtos ao carrinho de compras.
-- Checkout seguro com opções de pagamento.
+- Redirecionamento de chat com Vendedor.
 
 
 # Documento de Casos de Uso - TecHass Store
