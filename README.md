@@ -10,7 +10,7 @@ Bem-vindo à TecHass Store, o seu destino para comprar as melhores peças usadas
 
 ## Descrição do Projeto
 
-Esse projeto consiste em um site de e-commerce onde os usuários podem comprar uma ampla variedade de produtos de hardware de alta qualidade voltados para gamers, sendo elas usadas e semi-novas para permitir um preço mais acessível. Nossa plataforma permite que os usuários naveguem por uma seleção exclusiva de produtos, façam pedidos e adicionem itens ao carrinho de compras. Os produtos são cuidadosamente selecionados e postados exclusivamente pela loja.
+Esse projeto consiste em um site de e-commerce onde os usuários podem visualizar uma ampla variedade de produtos de hardware de alta qualidade voltados para gamers, sendo elas usadas e semi-novas para permitir um preço mais acessível. Nossa plataforma permite que os usuários naveguem por uma seleção exclusiva de produtos, façam pedidos e adicionem itens ao carrinho de compras. Os produtos são cuidadosamente selecionados e postados exclusivamente pela loja. Os pedidos que foram adiconados ao carrinho, serão enviados ao WhatsApp comercial da loja para daí ser negociado o método de pagamento diretamente entre o cliente e o vendedor.
 
 ## Tabela de Conteúdo
 
