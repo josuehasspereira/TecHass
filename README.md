@@ -136,7 +136,7 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 | R.F.04 | Adicionar no Carrinho | Permite que o usuário adicione um produto ao seu carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
 | R.F.05 | Remover do Carrinho | Permite que o usuário remova um produto do carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
 | R.F.06 | Editar Perfil | Permite que o usuário edite seu perfil e suas informações pessoais | Nome, Sobrenome, Email, CPF, Endereço, Data de Nascimento | Usuário, Administrador |
-| R.F.07 | Comprar um produto | Permite que o usuário faça a compra de um produto | Nome, Sobrenome, CPF, Endereço, Quantidade, Valor Total, Método de Pagamento | Usuário , Administrador |
+| R.F.07 | Redirecionamento para Negociação | Ao clicar em comprar, o usuário será redirecionado para negociar o método de pagamento através do WhatsApp | Nome, Número de Celular | Usuário , Administrador |
 | R.F.08 | Cadastrar produto | Permite que o administrador cadastre um novo produto no sistema | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
 | R.F.09 | Alterar produto | Permite que o administrador altere informações do produto | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
 | R.F.10 | Excluir produto | Permite que o Administrador exclua um produto do sistema permanentemente | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
