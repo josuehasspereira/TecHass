@@ -60,14 +60,13 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem visualiza
 3. O usuário seleciona um ou mais produtos.
 4. O usuário adiciona os produtos ao carrinho de compras.
 5. O usuário vai para o checkout.
-6. O usuário insere as informações de envio e pagamento do produto.
-7. O usuário confirma a compra.
+6. O usuário é redirecionado para negociar o método de pagamento através do WhatsApp.
 
 **Fluxo Alternativo:**
 
 - Se o usuário desejar adicionar mais produtos após o passo 4, ele pode retornar à página de navegação e repetir o processo.
 
-**Pós-condições:** Os produtos são comprados, o pedido é registrado, o estoque é atualizado e o produto enviado ao comprador.
+**Pós-condições:** Os produtos são comprados, o pedido é registrado, o estoque é atualizado e o vendedor negocia o pagamento com o usuário.
 
 
 ### Postar Produto (Administrador)
@@ -136,7 +135,7 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 | R.F.04 | Adicionar no Carrinho | Permite que o usuário adicione um produto ao seu carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
 | R.F.05 | Remover do Carrinho | Permite que o usuário remova um produto do carrinho de compras | Titulo, Quantidade, Valor Total | Usuário, Administrador |
 | R.F.06 | Editar Perfil | Permite que o usuário edite seu perfil e suas informações pessoais | Nome, Sobrenome, Email, CPF, Endereço, Data de Nascimento | Usuário, Administrador |
-| R.F.07 | Redirecionamento para Negociação | Ao clicar em comprar, o usuário será redirecionado para negociar o método de pagamento através do WhatsApp | Nome, Número de Celular | Usuário , Administrador |
+| R.F.07 | Redirecionamento para Negociação | Ao clicar em comprar, o usuário preenchera um formulário, sendo redirecionado para negociar o método de pagamento através do WhatsApp | Nome, Número de Celular | Usuário , Administrador |
 | R.F.08 | Cadastrar produto | Permite que o administrador cadastre um novo produto no sistema | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
 | R.F.09 | Alterar produto | Permite que o administrador altere informações do produto | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
 | R.F.10 | Excluir produto | Permite que o Administrador exclua um produto do sistema permanentemente | Titulo, Descrição, Quantidade, Valor Unitário, Quantidade, Valor Total, Categoria, Especificações | Administrador |
