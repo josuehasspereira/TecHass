@@ -154,7 +154,22 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 
 
 # Regras de Negócio 
-(Em andamento...)
+
+## Política de Devolução:
+- Descrição: Estabelecer uma política de devolução que define o período durante o qual os clientes podem solicitar devoluções de produtos, as condições para devolução e os procedimentos para processar as devoluções.
+- Ações: O sistema deve permitir que os clientes solicitem devoluções dentro do período estipulado, verificando se a solicitação está dentro do prazo e fornecendo orientações sobre o processo de devolução.
+
+## Validação de Dados do Usuário:
+- Descrição: Validar os dados fornecidos pelos usuários durante o cadastro e outras interações com o sistema para garantir sua integridade e precisão.
+- Ações: O sistema deve realizar validações nos campos de entrada de dados, como e-mail, senha, endereço, etc., para garantir que sejam inseridos corretamente e atendam aos critérios estabelecidos.
+
+## Avaliação de Produtos:
+- Descrição: Permitir que os clientes avaliem e comentem sobre os produtos após a compra, fornecendo feedback útil para outros compradores.
+- Ações: O sistema deve permitir que os clientes deixem avaliações e comentários sobre os produtos adquiridos, exibindo essas informações na página do produto para futuros compradores.
+
+# Filtragem de Produtos:
+- Descrição: Permitir que os clientes filtrem os produtos com base em critérios como preço, categoria, título, etc., para facilitar a busca por itens específicos.
+- Ações: O sistema deve fornecer opções de filtragem na página de navegação de produtos, permitindo que os clientes refinem os resultados de acordo com suas preferências.
 
 # Tecnologias
 
