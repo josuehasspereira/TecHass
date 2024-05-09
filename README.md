@@ -145,7 +145,6 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 | R.F.13 | Filtrar produtos | Permite ao usuário que filtre os produtos segundo a sua preferência | Preço, Categoria, Título | Uusário, Administrador |
 | R.F.14 | Avaliar produtos | Permite ao usuário que avalie o produto e comente após realizar a compra do mesmo | Nota, Comentário | Uusário, Administrador |
 
-Obs: o R.F.07 pode ser submetido a mudanças, ja que não há ainda uma API de pagamento e/ou integração de envio com o correios especificado para usar no projeto. Vale lembrar que talvez não haja pagamento direto por dentro do site, ou seja, no ato da compra, será redirecionado para o whatsapp comercial da TecHass Store onde o pagamento poderá ser feito mediante ao Vendedor, atráves de cartão de débito (à vista), crédito (até 12x) e dinheiro (vivo ou pix).
 
 ## - Não Funcionais
 | Identificação | Nome | Descrição | 
