@@ -17,7 +17,7 @@ Esse projeto consiste em um site de e-commerce onde os usuários podem visualiza
 - [Funcionalidades](#funcionalidades)
 - [Uso](#documento-de-casos-de-uso---tecHass-store)
 - [Requisitos](#requisitos)
-- [Regras de Negócio](#regras-de-negocio)
+- [Regras de Negócio](#regras-de-negócio)
 - [Tecnologias](#tecnologias)
 - [Contato](#contato)
 
