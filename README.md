@@ -167,7 +167,7 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 - Descrição: Permitir que os clientes avaliem e comentem sobre os produtos após a compra, fornecendo feedback útil para outros compradores.
 - Ações: O sistema deve permitir que os clientes deixem avaliações e comentários sobre os produtos adquiridos, exibindo essas informações na página do produto para futuros compradores.
 
-# Filtragem de Produtos:
+## Filtragem de Produtos:
 - Descrição: Permitir que os clientes filtrem os produtos com base em critérios como preço, categoria, título, etc., para facilitar a busca por itens específicos.
 - Ações: O sistema deve fornecer opções de filtragem na página de navegação de produtos, permitindo que os clientes refinem os resultados de acordo com suas preferências.
 
