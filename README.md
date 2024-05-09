@@ -176,11 +176,11 @@ Este documento de casos de uso fornece uma visão geral das principais funcional
 ### Hospedagem
 - Não Confirmado
 
-### Integração de pagamento
-- Não Confirmado
 
 # Contato
 
-Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em [jozzuhass@gmail.com](mailto:jozzuhass@gmail.com).
+Se você tiver alguma dúvida, sugestão ou quiser entrar em contato conosco, sinta-se à vontade para nos enviar um e-mail em:
+- Pessoal [jozzuhass@gmail.com](mailto:jozzuhass@gmail.com).
+- Comercial [techass.store@gmail.com](mailto:techass.store@gmail.com)
 
 Agradecemos por escolher a Loja de Peças de Computador Gamer para suas necessidades de hardware para jogos!
